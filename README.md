@@ -69,20 +69,5 @@ The application is deployed for free on Vercel. Any changes pushed to the main b
 - Crisp
 
 
-## Contributing
-
-Contributions are welcome! If you would like to contribute to this project, please follow these steps:
-
-1. Fork the repository
-2. Create a new branch: `git checkout -b feature/your-feature-name`
-3. Make your changes and commit them: `git commit -am 'Add some feature'`
-4. Push the branch: `git push origin feature/your-feature-name`
-5. Submit a pull request
 
 
-![genius](https://github.com/Dawitlior/Genius/assets/102303153/af7e9014-2189-48ea-8b1b-4c826f0f9d4b)
-
-
-## Contact
-
-If you have any questions, suggestions, or issues, please feel free to contact with me at Dawitlior777@gmail.com
